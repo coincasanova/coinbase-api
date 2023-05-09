@@ -1,0 +1,6 @@
+*.env
+*.ipynb
+.ipynb_checkpoints/
+coinbase-env/
+__pycache__/
+
